@@ -1,3 +1,4 @@
+//Dopo aver chiesto un numero di 4 cifre, sommare le cifre che compongono tale numero
 let num = '';
 
 do {
